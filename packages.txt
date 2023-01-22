@@ -1,5 +1,6 @@
 alacritty
 android-studio
+android-tools
 archlinux-keyring
 authy
 autoconf
@@ -14,6 +15,7 @@ cmake
 cowsay
 debugedit
 discord
+element-desktop
 fakeroot
 feh
 file
@@ -26,14 +28,24 @@ fortune-mod
 gawk
 gcc
 gettext
+gimp
 git
 gnome-keyring
 gotop
+gradle
 grep
 groff
 grub
 gzip
 heroic-games-launcher-bin
+htop
+jre11-openjdk
+jre8-openjdk
+lib32-gst-plugins-base-libs
+lib32-gtk3
+lib32-libxslt
+lib32-ocl-icd
+lib32-v4l-utils
 libtool
 linux
 linux-firmware
@@ -41,9 +53,13 @@ lolcat
 lxappearance
 m4
 make
+man-db
+myxer
+namcap
 nano
 neofetch
 networkmanager
+ninja
 ntp
 obs-studio
 oh-my-zsh-git
@@ -54,6 +70,7 @@ picom
 pkgconf
 playerctl
 polybar
+prismlauncher
 pulseaudio
 radeontop
 rebuild-detector
@@ -62,6 +79,7 @@ sed
 signal-desktop
 spotify
 steam
+steam-native-runtime
 sudo
 texinfo
 thunar
@@ -70,6 +88,7 @@ virtualbox
 visual-studio-code-bin
 vlc
 which
+wine-staging
 xclip
 xcursor-themes
 xorg-server
