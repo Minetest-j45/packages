@@ -10,8 +10,10 @@ base
 bibata-cursor-theme
 binutils
 bison
+cava
 clang
 cmake
+cmatrix
 cowsay
 debugedit
 discord
@@ -66,7 +68,7 @@ oh-my-zsh-git
 pacman
 patch
 pavucontrol
-picom
+picom-jonaburg-git
 pkgconf
 playerctl
 polybar
@@ -83,6 +85,7 @@ steam-native-runtime
 sudo
 texinfo
 thunar
+timeshift
 ttf-jetbrains-mono
 virtualbox
 visual-studio-code-bin
