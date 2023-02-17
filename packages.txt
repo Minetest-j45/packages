@@ -8,6 +8,7 @@ automake
 awesome
 base
 bibata-cursor-theme
+bind
 binutils
 bison
 cava
@@ -48,6 +49,7 @@ lib32-gtk3
 lib32-libxslt
 lib32-ocl-icd
 lib32-v4l-utils
+libgnome-keyring
 libtool
 linux
 linux-firmware
@@ -60,6 +62,7 @@ myxer
 namcap
 nano
 neofetch
+network-manager-applet
 networkmanager
 ninja
 ntp
@@ -71,12 +74,14 @@ pavucontrol
 picom-jonaburg-git
 pkgconf
 playerctl
+polkit-gnome
 polybar
 prismlauncher
 pulseaudio
 radeontop
 rebuild-detector
 rofi
+rofi-calc
 sed
 signal-desktop
 spotify
@@ -87,8 +92,10 @@ texinfo
 thunar
 timeshift
 ttf-jetbrains-mono
+vim
 virtualbox
 visual-studio-code-bin
+vlang
 vlc
 which
 wine-staging
