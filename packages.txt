@@ -13,7 +13,6 @@ bind
 binutils
 bison
 cava
-certbot
 clang
 cmake
 cmatrix
