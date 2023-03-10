@@ -7,11 +7,13 @@ autoconf
 automake
 awesome
 base
+base-devel
 bibata-cursor-theme
 bind
 binutils
 bison
 cava
+certbot
 clang
 cmake
 cmatrix
@@ -34,6 +36,7 @@ gettext
 gimp
 git
 gnome-keyring
+go
 gotop
 gradle
 grep
@@ -65,6 +68,7 @@ neofetch
 network-manager-applet
 networkmanager
 ninja
+noto-fonts-emoji
 ntp
 obs-studio
 oh-my-zsh-git
@@ -91,6 +95,7 @@ sudo
 texinfo
 thunar
 timeshift
+traceroute
 ttf-jetbrains-mono
 vim
 virtualbox
