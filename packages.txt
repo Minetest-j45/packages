@@ -60,6 +60,7 @@ lxappearance
 m4
 make
 man-db
+monero-gui
 myxer
 namcap
 nano
@@ -67,6 +68,7 @@ neofetch
 network-manager-applet
 networkmanager
 ninja
+noto-fonts-cjk
 noto-fonts-emoji
 ntp
 obs-studio
@@ -94,6 +96,7 @@ sudo
 texinfo
 thunar
 timeshift
+tor-browser
 traceroute
 ttf-jetbrains-mono
 vim
